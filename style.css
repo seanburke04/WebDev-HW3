@@ -27,6 +27,9 @@ nav{
 	/* 	font-size: 15px; */
 	/* 	margin: 7px; */
 	/* } */
+	img{
+		height: 50px;
+	}
 }
 
 .profileImg{
