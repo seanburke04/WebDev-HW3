@@ -1,0 +1,6 @@
+icon.png = https://www.flaticon.com/free-icon/cv_5988705
+movie.jgp = https://www.vecteezy.com/vector-art/25420761-black-and-white-cinema-movie-entertainment-clip-art-icon-film-studio-building-interior-vector-flat-illustration-studio-movie-camera-clip-art-premium-vector-set-with-white-background
+music.png = https://pngimg.com/image/82616
+book.png = https://pngtree.com/freepng/book-clipart-vector_9043539.html
+pc.jpg = https://www.vecteezy.com/vector-art/23246946-desktop-gaming-pc-color-icon-vector-illustrationsoccer.png = https://stock.adobe.com/search?k=soccer+clipart
+

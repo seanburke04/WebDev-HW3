@@ -1,0 +1,99 @@
+/*
+	Name: Sean Burke
+	Class: CPSC 332 - Web Development
+	Assignment: HW3
+	Last Modified: 10/2/24
+*/
+
+nav{
+	display: inline;
+	a{
+		color: black;
+		font-size: 15px;
+		margin: 7px;
+	}
+}
+
+.header {
+	height: 70px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background-color: #9fd0cb;
+	position: fixed;
+	padding-bottom: 5px;
+	/* a{ */
+	/* 	color: black; */
+	/* 	font-size: 15px; */
+	/* 	margin: 7px; */
+	/* } */
+}
+
+.profileImg{
+	img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+		border-radius: 90%;
+	}
+}
+
+.introduction {
+	height: 100%;
+	width: 29%;
+	left: 0;
+	top: 75px;
+	position: fixed;
+	border: 1px black;
+	margin: 0;
+	padding-top: 1%;
+	text-align: center;
+	background-color: #eff9f8;
+	}
+
+.main {
+	height: 100%;
+	width: 69%;
+	top: 70px;
+	right: 0;
+	position: fixed;
+	border: 1px black;
+	margin: 0;
+	padding-top: 0%;
+}
+
+table{
+	tr:nth-child(even){
+		background-color: #eff9f8;
+	}
+	border-collapse: collapse;	
+}
+
+th{
+	border: solid;
+	border-width: 1px;
+}
+
+td{
+	border: solid;
+	border-width: 1px;
+}
+
+hr {
+	border-top: 3px solid black;
+	border-radius: 5px;
+	width: 80%;
+}
+
+ul{
+	list-style: circle;
+}
+
+ol{
+	list-style: upper-roman;
+	img{
+		width: 40px;
+		height: 40px;
+	}
+}
