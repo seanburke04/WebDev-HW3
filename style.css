@@ -6,7 +6,9 @@
 */
 
 html{
-	overflow: scroll;
+	height: 100%;
+	margin: auto;
+	overflow: hidden;
 }
 
 nav{
