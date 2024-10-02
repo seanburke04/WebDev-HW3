@@ -8,7 +8,7 @@
 html{
 	height: 100%;
 	margin: auto;
-	overflow: scroll;
+	overflow: auto;
 }
 
 nav{
@@ -70,6 +70,7 @@ nav{
 	border: 1px black;
 	margin: 0;
 	padding-top: 0%;
+	overflow: auto;
 }
 
 table{
